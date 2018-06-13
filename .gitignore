@@ -1,5 +1,5 @@
 **/target/
-
+**/out/
 **/.gitignore
 # IntelliJ project files
 .idea
